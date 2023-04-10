@@ -20,6 +20,8 @@ public class MainActivity extends AppCompatActivity {
     RecyclerView rcvmain;
     ArrayList<Integer> sdimg = new ArrayList<>();
 
+
+
     //   post id
     ArrayList<Integer> postaccimg = new ArrayList<>();
     ArrayList<String> postname = new ArrayList<>();
